@@ -4,9 +4,9 @@ Chrome web app that makes reading easier for people with dyslexia by making the 
 
 ## Final Product
 
-!["Screenshot of Before Page"](https://github.com/noordeep-p/tinyApp/blob/master/docs/Login.png?raw=true)
-!["Screenshot of Application"](https://github.com/noordeep-p/tinyApp/blob/master/docs/User-Dashboard.png?raw=true)
-!["Screenshot of Page after using App"](https://github.com/noordeep-p/tinyApp/blob/master/docs/Create-URL.png?raw=true)
+!["Screenshot of Before Page"](https://raw.githubusercontent.com/noordeep-p/dyslexSee/main/images/before.png)
+!["Screenshot of Application"](https://raw.githubusercontent.com/noordeep-p/dyslexSee/main/images/open%20app.png)
+!["Screenshot of Page after using App"](https://raw.githubusercontent.com/noordeep-p/dyslexSee/main/images/after.png)
 
 ## Dependencies
 
