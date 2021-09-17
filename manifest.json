@@ -1,0 +1,31 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+	"manifest_version": 2,
+	"name": "Dyslex-see",
+	"version": "1",
+  "description": "Easier reading for Dyslexics, Icons by Icons8 (https://icons8.com)",
+	"icons": { "128": "icon_128.png" },
+	"content_scripts": [
+
+		{
+			"matches": [
+				"<all_urls>"
+			],
+			"js": ["content.js"],
+			"css": ["content.css"]
+		}
+	],
+
+	"web_accessible_resources": [
+ 		"fonts/OpenDyslexic.ttf"
+ 	],
+
+	"permissions": ["tabs"],
+
+	"browser_action": {
+		"default_icon": "icon.png", 
+		"default_popup": "popup.html",
+		"default_title": "Reading Assistant for Dyslexics"
+	}
+}
