@@ -23,22 +23,27 @@ function run(tab) {
 }
 
 function yellowClick() {
+  document.getElementById('buttonClicked').style.background = "#ffffcc";
   colourChoice = "yellow";
 }
 
 function blueClick() {
+  document.getElementById('buttonClicked').style.background = "#b3d9ff";
   colourChoice = "blue";
 }
 
 function redClick() {
+  document.getElementById('buttonClicked').style.background = "#ffe368";
   colourChoice = "red";
 }
 
 function greenClick() {
+  document.getElementById('buttonClicked').style.background = "#75baff";
   colourChoice = "green";
 }
 
 function pinkClick() {
+  document.getElementById('buttonClicked').style.background = "#b3b3b3";
   colourChoice = "pink";
 }
 
