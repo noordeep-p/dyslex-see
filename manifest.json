@@ -2,9 +2,9 @@
 "update_url": "https://clients2.google.com/service/update2/crx",
 
 	"manifest_version": 2,
-	"name": "Dyslex-see",
+	"name": "DyslexSee",
 	"version": "1",
-  "description": "Easier reading for Dyslexics, Icons by Icons8 (https://icons8.com)",
+  "description": "Helps dyslexics read by altering the font, text size, text spacing and highlighting of text on a page to match dyslexic reading guidelines. Icons by Icons8 (https://icons8.com)",
 	"icons": { "128": "icon_128.png" },
 	"content_scripts": [
 

@@ -81,7 +81,6 @@ img {
 .flex-container {
 	display: flex;
 	justify-content: space-between;
-	padding: 10px 22px;
 }
 
 .flex {
@@ -95,8 +94,8 @@ img {
 }
 
 #popup-icon {margin-bottom: -0.5em;}
-#yellowColour {background-color: #ffffcc;}
-#blueColour {background-color: #b3d9ff;}
-#redColour {background-color: #ffe368;}
-#greenColour {background-color: #75baff;}
-#pinkColour {background-color: #b3b3b3;}
+#yellowColour {background-color: #ffffcc; min-width: 1.5em; min-height: 1.5em;}
+#blueColour {background-color: #b3d9ff; min-width: 1.5em; min-height: 1.5em;}
+#redColour {background-color: #ffe368; min-width: 1.5em; min-height: 1.5em;}
+#greenColour {background-color: #75baff; min-width: 1.5em; min-height: 1.5em;}
+#pinkColour {background-color: #b3b3b3; min-width: 1.5em; min-height: 1.5em;}
